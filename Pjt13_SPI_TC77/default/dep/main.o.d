@@ -20,7 +20,7 @@ main.o: ../main.c \
  c:\program\ files\ (x86)\atmel\avr\ tools\avr\ toolchain\bin\../lib/gcc/avr/4.6.2/../../../../avr/include/util/delay_basic.h \
  c:\program\ files\ (x86)\atmel\avr\ tools\avr\ toolchain\bin\../lib/gcc/avr/4.6.2/../../../../avr/include/math.h \
  ../led.h ../uart.h ../linked_list.h ../Timer_linked_list.h ../app.h \
- ../Task_queue.h ../Timer.h
+ ../Task_queue.h ../Timer.h ../spi.h
 
 c:\program\ files\ (x86)\atmel\avr\ tools\avr\ toolchain\bin\../lib/gcc/avr/4.6.2/../../../../avr/include/stdio.h:
 
@@ -75,3 +75,5 @@ c:\program\ files\ (x86)\atmel\avr\ tools\avr\ toolchain\bin\../lib/gcc/avr/4.6.
 ../Task_queue.h:
 
 ../Timer.h:
+
+../spi.h:

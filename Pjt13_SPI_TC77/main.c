@@ -11,6 +11,7 @@
 #include "app.h"
 #include "Task_queue.h"
 #include "Timer.h"
+#include "spi.h"
 
 int main()
 {
@@ -20,6 +21,7 @@ int main()
 	uart_init();
 	task_init();
 	timer_init();
+	spi_init();
 
 	sei();
 
