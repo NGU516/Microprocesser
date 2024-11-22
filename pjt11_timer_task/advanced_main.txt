@@ -1,0 +1,17 @@
+struct task_tab {
+	char task_name[32];
+	void *task_fun(char *arg);
+};
+
+struct task_tab Task_tab[] = {
+	{"prime", task_prime},
+	{"sum", task_sum},
+	{"sensor", }
+}
+
+int Task_out = sizeof(Task_tab) / sizeof(struct task_tab);
+
+struct *task_tab what_task(char *name)
+{
+
+}
