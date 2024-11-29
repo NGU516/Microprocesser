@@ -1,1 +1,1 @@
-<AVRWorkspace><IOSettings><CurrentRegisters/></IOSettings><part name="ATMEGA2560"/><Files><File00000 Name="C:\AVR\pjt14_I2C_TCN75\i2c.c" Position="331 186 1375 644" LineCol="52 13"/><File00001 Name="C:\AVR\pjt14_I2C_TCN75\Task_queue.c" Position="786 211 1826 643" LineCol="82 25"/></Files></AVRWorkspace>
+<AVRWorkspace><IOSettings><CurrentRegisters/></IOSettings><part name="ATMEGA2560"/><Files/></AVRWorkspace>

@@ -7,8 +7,8 @@
 
 void tcn75_i2c_init()
 {
-	sbi(DDRD, SDA); sbi(PORTD, SDA);	// output, hi
-	sbi(DDRD, SCL); sbi(PORTD, SCL);	// output, hi
+	sbi(DDRD, SDA); sbi(PORTD, SDA);	// output, High
+	sbi(DDRD, SCL); sbi(PORTD, SCL);	// output, High
 	
 	// address output
 	// sbi(DDRH, 1); cbi(PORTH, 1);		// output, A0 <- 0
