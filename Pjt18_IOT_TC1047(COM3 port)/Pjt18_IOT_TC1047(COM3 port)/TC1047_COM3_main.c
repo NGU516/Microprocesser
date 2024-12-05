@@ -1,6 +1,6 @@
 // TC1047_COM3_main.c
 
-#include <stdio.h>
+#include <stdlib.h>
 #include "TC1047_COM3_web.h"
 #include "CGI_get_data.h"
 
